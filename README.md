@@ -10,9 +10,9 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.16px; height: 212.08px;">![](images/image42.jpg)</span>
 
-<span class="c22 c43">Matlab Assignment</span>
+<span class="c22 c43"><h2>Matlab Assignment</span>
 
-<span class="c35">Analog Communication</span>
+<span class="c35"><h3>Analog Communication<h3></span>
 
 <span class="c22 c47">Team Members:  
 </span>
@@ -36,7 +36,7 @@
 <span class="c21">5)</span><span class="c6"> Islam Ashraf Muhammed  18010324</span><span class="c6"> </span>
 
 # <span class="c27">  
-I– DSB Part</span>
+<h2>I– DSB Part</span>
 
 ### <span class="c0">1)  signal in time and  frequency domain</span>
 
